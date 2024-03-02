@@ -1,0 +1,7 @@
+*
+!bluemap/web/settings.json
+!config
+!dynmap
+dynmap/web
+!/world*
+!/*.json
