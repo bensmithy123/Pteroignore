@@ -1,4 +1,7 @@
 *
 !.config
+.config/unity3d/IronGate/Valheim/worlds_local/*_backup_*.db
+.config/unity3d/IronGate/Valheim/worlds_local/*_backup_*.fwl
 !BepInEx/config
 !BepInEx/vplus-data
+!.pteroignore
